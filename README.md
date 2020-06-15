@@ -1,0 +1,1 @@
+# Pokedex web application built with TypeScript
